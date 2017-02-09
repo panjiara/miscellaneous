@@ -13,7 +13,7 @@ int main()
     }
     if(i+1==0)
     {
-      cout<<"happy";
+      cout<<"1"<<s<<endl;
 
     }
     else
